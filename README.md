@@ -9,7 +9,7 @@ To get started, clone the repo and run `npm install` to install the dependencies
 
 ## Screenshot
 
-![](../Screenshot%202023-03-30%20at%2021-00-19%20React%20App.png)
+![Pic](../Screenshot%202023-03-30%20at%2021-00-19%20React%20App.png)
 
 ![Main View](../Screenshot%202023-03-30%20at%2020-58-45%20React%20App.png)
 
