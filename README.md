@@ -18,3 +18,7 @@ To get started, clone the repo and run `npm install` to install the dependencies
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Socket.io](https://socket.io/)
 - [Express](https://expressjs.com/)
+
+## Deployment
+
+This app is deployed on Netlify. You can view it [here](https://tweet-app-sofia.netlify.app/).
